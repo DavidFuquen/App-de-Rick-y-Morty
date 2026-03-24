@@ -10,7 +10,7 @@ Aplicación web construida con React, TypeScript y Tailwind CSS que consume la [
 
 ## 🚀 Demo en vivo
 
-🔗 [Ver aplicación](https://TU_URL.vercel.app)
+🔗 [Ver aplicación](https://app-de-rick-y-morty.vercel.app/)
 
 ---
 
@@ -109,7 +109,7 @@ Este proyecto consume la [Rick and Morty API](https://rickandmortyapi.com/), una
 ---
 
 ## 👨‍💻 Autor
-
+git
 Hecho con 💚 por **Luis David Fúquen**
 
 [![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=flat&logo=github)](https://github.com/TU_USUARIO)
