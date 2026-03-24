@@ -110,6 +110,6 @@ Este proyecto consume la [Rick and Morty API](https://rickandmortyapi.com/), una
 
 ## 👨‍💻 Autor
 
-Hecho con 💚 por **TU_NOMBRE**
+Hecho con 💚 por **Luis David Fúquen**
 
 [![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=flat&logo=github)](https://github.com/TU_USUARIO)
